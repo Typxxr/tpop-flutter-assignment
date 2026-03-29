@@ -1,20 +1,19 @@
 # pack_mate
 
-A new Flutter project.
+Flutter assignment project for subscription flow implementation.
+
+## หมายเหตุ
+
+โปรเจกต์นี้พัฒนาเสร็จสมบูรณ์ตามขอบเขตที่กำหนด และได้ทดสอบการทำงานบน **Android** เรียบร้อยแล้ว
+
+เนื่องจากผู้พัฒนาไม่มีอุปกรณ์ **macOS / Xcode** จึงไม่สามารถ build, run และตรวจสอบการทำงานบน **iOS** ได้ภายในช่วงเวลาส่งงาน
+
+อย่างไรก็ตาม โปรเจกต์นี้พัฒนาด้วย **Flutter** โดยคำนึงถึงโครงสร้างแบบ **cross-platform** ไว้แล้ว
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+คำสั่งสำหรับรันโปรเจกต์ในแต่ละ environment:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-
+### Run staging
+```bash
 flutter run --flavor staging -t lib/main_staging.dart
-flutter run --flavor prod -t lib/main_prod.dart
