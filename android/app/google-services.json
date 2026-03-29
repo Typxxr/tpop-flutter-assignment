@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1077312198621",
+    "project_id": "pack-mate-prod-67609",
+    "storage_bucket": "pack-mate-prod-67609.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077312198621:android:a994033564fac611858834",
+        "android_client_info": {
+          "package_name": "com.example.pack_mate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOrQUqi-Xzujn4Y3AAezJFr_oKo1HJ9rY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

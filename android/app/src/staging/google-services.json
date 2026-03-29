@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "737014456460",
+    "project_id": "pack-mate-staging-227a2",
+    "storage_bucket": "pack-mate-staging-227a2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737014456460:android:d34bc2b3a9b7dfb3461ba9",
+        "android_client_info": {
+          "package_name": "com.example.pack_mate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8zTNvOk2FTt0RpP0sHfBQ84UnYJcuVGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737014456460:android:61c8a709bf0375f0461ba9",
+        "android_client_info": {
+          "package_name": "com.example.pack_mate.staging"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8zTNvOk2FTt0RpP0sHfBQ84UnYJcuVGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
