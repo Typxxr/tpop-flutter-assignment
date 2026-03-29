@@ -1,6 +1,5 @@
 # pack_mate
 
-Flutter assignment project for subscription flow implementation.
 
 ## หมายเหตุ
 
